@@ -1,0 +1,66 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 80%; 
+    margin:auto
+}
+
+.sfondo-logo {
+    background-image: url('/img/pattern.png');
+    background-color: aqua;
+    background-size: 200px;
+    height: 100px;
+} 
+
+.text-grey {
+    color: lightgrey;
+}
+
+.text-blue {
+    color: aqua;
+}
+
+.bg-yellow {
+    background-color: yellow;
+}
+
+.w-25 {
+    width: 25%;
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.bg-blue {
+    background-color: blue;
+}
+
+.text-white {
+    color: white;
+}
+
+.bg-lightblue {
+    background-color: aqua;
+}
+
+.bg-testo {
+    background-image: url("/img/monitor.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 400px;
+}
+
+.bg-sfondo-graph {
+    background-image: url("/img/graph.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 250px;
+    width: 400px;
+
+}
